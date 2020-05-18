@@ -5,11 +5,11 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources >
         <Style TargetType="Button" x:Key="Boton1">
-            <Setter Property="Foreground" Value="Blue" />
+            <Setter Property="Foreground" Value="red" />
             <Setter Property="FontSize" Value="20" />
         </Style>
         <Style TargetType="Button" x:Key="Boton2">
-            <Setter Property="Foreground" Value="Blue" />
+            <Setter Property="Foreground" Value="green" />
             <Setter Property="FontSize" Value="64" />
         </Style>
         <Style TargetType="TextBox" x:Key="Text1">
